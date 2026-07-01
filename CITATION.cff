@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated article and this repository."
+title: "GenAI-Assisted Monte Carlo Simulation for Enzyme Kinetics"
+authors:
+  - family-names: "Mills"
+    given-names: "Jeffrey L."
+    affiliation: "Rochester Institute of Technology"
+year: 2026
+type: software
+license: MIT
+repository-code: "https://github.com/Yjlmsch1/montecarlo_chmp331"
+abstract: "Companion code, prompts, instructor notes, and example output for a GenAI-assisted classroom activity using Monte Carlo simulation to explore Michaelis-Menten enzyme kinetics, fitting methods, uncertainty, and experimental design."
+keywords:
+  - chemistry education
+  - enzyme kinetics
+  - Michaelis-Menten
+  - Monte Carlo simulation
+  - generative AI
+  - physical chemistry
+  - biochemistry
+  - Python
+  - Jupyter
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Mills"
+      given-names: "Jeffrey L."
+      affiliation: "Rochester Institute of Technology"
+  title: "A GenAI-Assisted Classroom Activity for Exploring Enzyme Kinetics, Fitting Methods, and Experimental Design with Monte Carlo Simulation"
+  journal: "Journal of Chemical Education"
+  year: 2026
